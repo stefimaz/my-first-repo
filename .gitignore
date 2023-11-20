@@ -1,0 +1,5 @@
+# local env flie
+.env*
+
+# misc
+.vscode
